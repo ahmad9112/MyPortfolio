@@ -189,7 +189,7 @@ skills: [
       date: "April 2018 - Feb 2020",
       grade: "77%",
       desc: "I have completed my 12th from Mirza Ghalib College, Gaya, with a focus on Physics, Chemistry, and Mathematics (PCM). During my studies, I developed a strong interest in science and technology, which helped me build a solid foundation in analytical thinking and problem-solving. My academic background has played an important role in shaping my interest in computer science and guiding my path toward a career in technology.",
-      degree: "Bachelor of Science - BSC(PCM)",
+      degree: " Intermediate of science - I.Sc.(PCM)",
     },
     // {
     //   id: 2,
